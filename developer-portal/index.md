@@ -2,6 +2,8 @@
 title: Fast Checkout Documentation
 ---
 
+# TEST DEMO
+
 # Fast Technical Documentation
 
 Fast powers headless commerce by inserting a thin Javascript layer into the client browser. Our platform offers advanced functionalities that enable a checkout application that reduces user friction to checkout. 
